@@ -1,0 +1,15 @@
+{
+    "name": "tugasjoke_app",
+    "version": "1.0.0",
+    "description": "A simple joke app using JokeAPI.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1"
+    },
+    "author": "Aldie Achmad",
+    "license": "ISC"
+  }
+  

@@ -1,16 +1,13 @@
-# tugasjoke_app
+Anggota Kelompok
 
-A new Flutter project.
+Aldie Achmad - 22552011096
 
-## Getting Started
+Hilman Elvan Saputra - 22552011101
 
-This project is a starting point for a Flutter application.
+Riswanto - 22552011095
 
-A few resources to get you started if this is your first Flutter project:
+Safira - 22552011127
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hasil Running Aplikasi
+![image](https://github.com/user-attachments/assets/35cec28e-eb0f-4384-b902-84d547046e63)
+![image](https://github.com/user-attachments/assets/09701de8-5ff0-4dca-ba88-86eef22f64a3)
